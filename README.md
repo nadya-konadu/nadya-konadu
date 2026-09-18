@@ -40,15 +40,11 @@ Always excited to learn from and work with others.
 
 <h2>Find me around the web 🌎</h2>
 
-<a href="https://www.linkedin.com/in/nadyakonadu">
+<a href="https://www.linkedin.com/in/nadya-konadu-a8315b223/">
   <img src="https://img.shields.io/badge/LinkedIn-321C20?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
 </a>
 &nbsp;
-<a href="https://github.com/nadya-konadu">
-  <img src="https://img.shields.io/badge/GitHub-321C20?style=for-the-badge&logo=github&logoColor=white" height="40">
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:nadyakonadu@gmail.com">
   <img src="https://img.shields.io/badge/Email-321C20?style=for-the-badge&logo=gmail&logoColor=white" height="40">
 </a>
 
