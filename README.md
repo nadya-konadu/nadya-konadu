@@ -6,58 +6,39 @@ I'm a recent Computer Science and Statistics graduate who enjoys working at the 
 
 I like exploring interesting questions through data, building things that are useful or interactive, and learning new tools along the way.
 
----
+<br>
 
 <table>
 <tr>
-
 <td width="33%" valign="middle">
-<table>
-<tr>
-<td width="90">
-<img src="explore-icon.png" width="75">
-</td>
-<td>
+<img src="explore-icon.png" width="75" align="left">
+&nbsp;&nbsp;
 <strong>Explore</strong><br>
+&nbsp;&nbsp;
 Curious about data, research, and the stories behind them.
 </td>
-</tr>
-</table>
-</td>
 
 <td width="33%" valign="middle">
-<table>
-<tr>
-<td width="90">
-<img src="build-icon.png" width="75">
-</td>
-<td>
+<img src="build-icon.png" width="75" align="left">
+&nbsp;&nbsp;
 <strong>Build</strong><br>
+&nbsp;&nbsp;
 Create interactive and useful tools and visualizations.
 </td>
-</tr>
-</table>
-</td>
 
 <td width="33%" valign="middle">
-<table>
-<tr>
-<td width="90">
-<img src="connect-icon.png" width="75">
-</td>
-<td>
+<img src="connect-icon.png" width="75" align="left">
+&nbsp;&nbsp;
 <strong>Connect</strong><br>
+&nbsp;&nbsp;
 Always excited to learn from and work with others.
 </td>
 </tr>
 </table>
-</td>
 
-</tr>
-</table>
-
----
+<br>
 
 ## Find me around the web 🌎
 
 [LinkedIn](https://www.linkedin.com/in/nadyakonadu)
+
