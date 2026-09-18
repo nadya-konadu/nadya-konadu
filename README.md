@@ -47,4 +47,7 @@ Always excited to learn from and work with others.
 <a href="mailto:nadyakonadu@gmail.com">
   <img src="https://img.shields.io/badge/Email-321C20?style=for-the-badge&logo=gmail&logoColor=white" height="40">
 </a>
+<p align="right">
+  <img src="signature.png" width="250" alt="Thanks for stopping by">
+</p>
 
