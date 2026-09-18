@@ -40,4 +40,4 @@ Always excited to learn from, collaborate with, and meet new people.
 
 ## Find me around the web 🌎
 
-[LinkedIn](https://www.linkedin.com/in/nadyakonadu) • [GitHub](https://github.com/nadya-konadu)
+[LinkedIn](https://www.linkedin.com/in/nadyakonadu) 
