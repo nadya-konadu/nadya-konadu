@@ -1,6 +1,6 @@
 ![Nadya Konadu Banner](github%20banner.jpg)
 
-# Hi, I'm Nadya 👋🏾
+# Hi, I'm Nadya 👋🏿
 
 I'm a recent Computer Science and Statistics graduate who enjoys working at the intersection of **data, technology, and people**.
 
